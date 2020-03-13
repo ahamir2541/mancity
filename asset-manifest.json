@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mancity/static/css/main.23c53f1a.chunk.css",
+    "main.js": "/mancity/static/js/main.017a3e47.chunk.js",
+    "main.js.map": "/mancity/static/js/main.017a3e47.chunk.js.map",
+    "runtime-main.js": "/mancity/static/js/runtime-main.0580de4b.js",
+    "runtime-main.js.map": "/mancity/static/js/runtime-main.0580de4b.js.map",
+    "static/js/2.b4c7a87c.chunk.js": "/mancity/static/js/2.b4c7a87c.chunk.js",
+    "static/js/2.b4c7a87c.chunk.js.map": "/mancity/static/js/2.b4c7a87c.chunk.js.map",
+    "index.html": "/mancity/index.html",
+    "precache-manifest.7b5bd9d44ee3c830f253c1afca83631c.js": "/mancity/precache-manifest.7b5bd9d44ee3c830f253c1afca83631c.js",
+    "service-worker.js": "/mancity/service-worker.js",
+    "static/css/main.23c53f1a.chunk.css.map": "/mancity/static/css/main.23c53f1a.chunk.css.map",
+    "static/js/2.b4c7a87c.chunk.js.LICENSE.txt": "/mancity/static/js/2.b4c7a87c.chunk.js.LICENSE.txt",
+    "static/media/Otamendi.png": "/mancity/static/media/Otamendi.5432bcd5.png",
+    "static/media/Raheem.png": "/mancity/static/media/Raheem.34e300e4.png",
+    "static/media/Vincent.png": "/mancity/static/media/Vincent.0896fc7d.png",
+    "static/media/featured_player.png": "/mancity/static/media/featured_player.6de3706a.png",
+    "static/media/jersey.jpg": "/mancity/static/media/jersey.dd26db27.jpg",
+    "static/media/manchester_city_logo.png": "/mancity/static/media/manchester_city_logo.1d5b64ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0580de4b.js",
+    "static/js/2.b4c7a87c.chunk.js",
+    "static/css/main.23c53f1a.chunk.css",
+    "static/js/main.017a3e47.chunk.js"
+  ]
+}
