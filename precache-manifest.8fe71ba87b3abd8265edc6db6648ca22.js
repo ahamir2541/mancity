@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac9d6d7035666cb09be25b3110c98459",
+    "revision": "09fde528e35ba8a55e313504811f3c7b",
     "url": "/mancity/index.html"
   },
   {
-    "revision": "a8ba147b19566f704b50",
+    "revision": "c189115438c73c1ad87d",
     "url": "/mancity/static/css/main.23c53f1a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mancity/static/js/2.b4c7a87c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8ba147b19566f704b50",
-    "url": "/mancity/static/js/main.017a3e47.chunk.js"
+    "revision": "c189115438c73c1ad87d",
+    "url": "/mancity/static/js/main.aaa56883.chunk.js"
   },
   {
     "revision": "51bd94929c1ae226358f",
