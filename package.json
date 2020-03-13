@@ -11,6 +11,7 @@
     "core-js-pure": "^3.6.4",
     "d3-ease": "^1.0.6",
     "firebase": "^7.10.0",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-firebase-file-uploader": "^2.4.3",

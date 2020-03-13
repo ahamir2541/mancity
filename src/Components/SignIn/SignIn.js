@@ -33,7 +33,7 @@ class SignIn extends Component {
                     placeholder: 'enter your password'
                 },
                 validation: {
-                    required: false,
+                    required: true,
                 },
                 valid: false,
                 validationMessage: ''
